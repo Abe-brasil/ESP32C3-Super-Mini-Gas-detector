@@ -1,4 +1,4 @@
-Based on this project https://www.youtube.com/watch?v=I7X39y8dqGE,i have ported it to an ESP32C3 Super Mini. A very good description find in the YouTubr link.The current consumption is 150mA without Wifi/Bluetooth/ESPNow.
+Based on this project https://www.youtube.com/watch?v=I7X39y8dqGE,i have ported it to an ESP32C3 Super Mini. A very good description find in the YouTube link. The current consumption is 150mA without Wifi/Bluetooth/ESPNow.
 
 There are two files, alkR0_C3, to get the R0/RS value and alkt_C3 for the measurement.
 
