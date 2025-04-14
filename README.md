@@ -5,3 +5,6 @@ There are two files, alkR0_C3, to get the R0/RS value and alkt_C3 for the measur
 
 
 ![ESP32C3 Gas Detector1](https://github.com/user-attachments/assets/95371ab6-6223-4103-b52b-1929c48e57ad)
+
+
+![gd](https://github.com/user-attachments/assets/6693bf3b-07c5-47eb-96b3-f23eea228abb)
